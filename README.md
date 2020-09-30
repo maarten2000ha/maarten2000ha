@@ -29,6 +29,9 @@ I'm currently a student in programming. I love learning, and you might be able t
 [<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/kotlin/kotlin.png" />][kotlin]
 [<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />][jenkins]
 [<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pop_OS-Logo-nobg.svg/1200px-Pop_OS-Logo-nobg.svg.png" />][popos]
+[<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />][reactnative]
+[<img height="32" width="32" src="https://img.favpng.com/17/5/2/asp-net-mvc-logo-net-framework-model-view-controller-png-favpng-v24xiWvwG7hnY9K1Y9P8y3tfs.jpg" />][asp.net]
+
 
 
 
@@ -53,6 +56,10 @@ I'm currently a student in programming. I love learning, and you might be able t
 [kotlin]: https://kotlinlang.org/
 [jenkins]: https://www.jenkins.io/
 [popos]: https://pop.system76.com/
+[reactnative]: https://reactnative.dev/
+[asp.net]: https://dotnet.microsoft.com/apps/aspnet
+
+
 
 
 
