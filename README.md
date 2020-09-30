@@ -1,18 +1,3 @@
-<!--
-**maarten2000ha/maarten2000ha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋Hello there👋, I'm Maarten2000ha!
 
 I'm currently a student in programming. I love learning, and you might be able to say I'm a nerd 🤓(especially with my glasses on). My love for sports is just below that. My sports that I practice now are freerunning, gymnastics and triathlon.
@@ -40,8 +25,10 @@ I'm currently a student in programming. I love learning, and you might be able t
 
 
 ## Currently learning: 
-
-
+[<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/django/django.png" />][django]
+[<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/kotlin/kotlin.png" />][kotlin]
+[<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />][jenkins]
+[<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pop_OS-Logo-nobg.svg/1200px-Pop_OS-Logo-nobg.svg.png" />][popos]
 
 
 
@@ -61,3 +48,15 @@ I'm currently a student in programming. I love learning, and you might be able t
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [terminal]: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+
+[django]: https://www.djangoproject.com/
+[kotlin]: https://kotlinlang.org/
+[jenkins]: https://www.jenkins.io/
+[popos]: https://pop.system76.com/
+
+
+
+
+
+<!--
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/simpleicons.svg" />][webdevplaylist]
