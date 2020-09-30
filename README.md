@@ -15,7 +15,7 @@ I'm currently a student in programming. I love learning, and you might be able t
 [<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
 [<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
 [<img height="32" width="32" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />][webstorm]
-[<img height="32" width="32" src="https://pbs.twimg.com/profile_images/1206603239791218688/0AwZ0m6W.jpg "/>][pycharm]
+[<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1200px-PyCharm_Logo.svg.png"/>][pycharm]
 [<img height="32" width="32" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" />][rider]
 [<img height="32" width="32" src="https://pbs.twimg.com/profile_images/1206604326032072705/Ih8iVx_B_400x400.jpg" />][datagrip]
 [<img height="32" width="32" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />][intellij]
