@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="201ac586-2823-43a4-b327-ba7d61740eed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -9,8 +11,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KotlinMultiplatform">
+    <allAvailableExecutables />
   </component>
   <component name="ProjectId" id="1iET8De5xVaoeqyttuUra16hUdV" />
   <component name="ProjectViewState">
@@ -19,7 +27,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -31,6 +46,8 @@
       <option name="presentableId" value="Default" />
       <updated>1601471589958</updated>
       <workItem from="1601471591218" duration="1341000" />
+      <workItem from="1618910201946" duration="411000" />
+      <workItem from="1621525761878" duration="1113000" />
     </task>
     <task id="LOCAL-00001" summary="pycharm icon fix">
       <created>1601471712467</created>
@@ -48,15 +65,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pycharm icon fix" />
     <option name="LAST_COMMIT_MESSAGE" value="pycharm icon fix" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="546" y="114" width="817" height="886" key="CommitChangelistDialog2" timestamp="1601471712284">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="546" y="114" width="817" height="886" key="CommitChangelistDialog2/0.27.1920.1053@0.27.1920.1053" timestamp="1601471712284" />
-    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1601471714796">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state x="555" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1601471714796" />
   </component>
 </project>

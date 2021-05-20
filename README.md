@@ -1,69 +1,41 @@
-# 👋Hello there👋, I'm Maarten2000ha!
+# Maarten Hanssen
 
-I'm currently a student in programming. I love learning, and you might be able to say I'm a nerd 🤓(especially with my glasses on). My love for sports is just below that. My sports that I practice now are freerunning, gymnastics and triathlon.
+Hello reader, <br>
+I'm a developer from Belgium. I've started my programming with school to get my papers to study further into something
+else, but through my internship I realised that it will be better for me that I pursue my skills with programming.
+Currently, I'm still learning a lot of things, but I'm always open for suggestions.
 
-<br> 
+## currently learning
+- kotlin multiplatform (ios and android, later with desktop and maybe web)
+- data science (🤷‍♀️ help would be awesome)
+- apollo server and client
+- prisma (orm)
 
-## Languages and Tools:
+## tools I use
+    - intelji idea
+    - webstorm
+    - datagrip
+    - gitkraken
+    - pycharm
+    - android studio
+    - xcode (haven't really tried Appcode from jetbrains)
 
-[<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
-[<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />][c#]
-[<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
-[<img height="32" width="32" src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" />][webstorm]
-[<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1200px-PyCharm_Logo.svg.png"/>][pycharm]
-[<img height="32" width="32" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" />][rider]
-[<img height="32" width="32" src="https://pbs.twimg.com/profile_images/1206604326032072705/Ih8iVx_B_400x400.jpg" />][datagrip]
-[<img height="32" width="32" src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" />][intellij]
-[<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />][terminal]
+## tech's I know
 
+### languages
+    - javascript
+    - typescript
+    - kotlin
+    - python
+    - SQL
 
-## Currently learning: 
-[<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/django/django.png" />][django]
-[<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/kotlin/kotlin.png" />][kotlin]
-[<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" />][jenkins]
-[<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pop_OS-Logo-nobg.svg/1200px-Pop_OS-Logo-nobg.svg.png" />][popos]
-[<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />][reactnative]
-[<img height="32" width="32" src="https://img.favpng.com/17/5/2/asp-net-mvc-logo-net-framework-model-view-controller-png-favpng-v24xiWvwG7hnY9K1Y9P8y3tfs.jpg" />][asp.net]
+### technologies 
+    - node.js
+    - express.js
+    - react.js
+    - postgres
+    - mysql
+    - typeorm
+    - graphql
 
-
-
-
-[javascript]: https://www.w3schools.com/js/default.asp
-[html]: https://www.w3schools.com/html/default.asp
-[css]: https://www.w3schools.com/css/default.asp
-[sass]: https://sass-lang.com/
-[c#]: https://docs.microsoft.com/en-us/dotnet/csharp/
-[nodejs]: https://nodejs.org/en/ 
-[mysql]: https://www.mysql.com/
-[mongodb]: https://www.mongodb.com/ 
-[webstorm]: https://www.jetbrains.com/webstorm/
-[pycharm]: https://www.jetbrains.com/pycharm/
-[rider]: https://www.jetbrains.com/rider/
-[datagrip]: https://www.jetbrains.com/datagrip/
-[intellij]: https://www.jetbrains.com/idea/
-[git]: https://git-scm.com/
-[github]: https://github.com/
-[terminal]: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
-
-[django]: https://www.djangoproject.com/
-[kotlin]: https://kotlinlang.org/
-[jenkins]: https://www.jenkins.io/
-[popos]: https://pop.system76.com/
-[reactnative]: https://reactnative.dev/
-[asp.net]: https://dotnet.microsoft.com/apps/aspnet
-
-
-
-
-
-
-
-<!--
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/simpleicons.svg" />][webdevplaylist]
+    
