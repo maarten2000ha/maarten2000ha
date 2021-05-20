@@ -12,30 +12,30 @@ Currently, I'm still learning a lot of things, but I'm always open for suggestio
 - prisma (orm)
 
 ## tools I use
-    - intelji idea
-    - webstorm
-    - datagrip
-    - gitkraken
-    - pycharm
-    - android studio
-    - xcode (haven't really tried Appcode from jetbrains)
+- intelji idea
+- webstorm
+- datagrip
+- gitkraken
+- pycharm
+- android studio
+- xcode (haven't really tried Appcode from jetbrains)
 
 ## tech's I know
 
 ### languages
-    - javascript
-    - typescript
-    - kotlin
-    - python
-    - SQL
+- javascript
+- typescript
+- kotlin
+- python
+- SQL
 
 ### technologies 
-    - node.js
-    - express.js
-    - react.js
-    - postgres
-    - mysql
-    - typeorm
-    - graphql
+- node.js
+- express.js
+- react.js
+- postgres
+- mysql
+- typeorm
+- graphql
 
     
